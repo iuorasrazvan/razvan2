@@ -1,3 +1,7 @@
 commit 1 master r1 
 commit 2 master r2
 commit 3 master r2 
+commit 1 b1 r1 
+commit 2 b1 r2 
+commit 3 b1 r2 
+
